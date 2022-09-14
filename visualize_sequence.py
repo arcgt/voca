@@ -17,6 +17,7 @@ For comments or questions, please email us at voca@tue.mpg.de
 
 
 import os
+os.environ['PYOPENGL_PLATFORM'] = 'egl'
 import glob
 import argparse
 import numpy as np
