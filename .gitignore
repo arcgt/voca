@@ -1,1 +1,10 @@
 __pycache__
+animation_output/*
+audio/FaceTalk*
+flame/*.pkl
+model/gstep*
+template/FaceTalk*
+ds_graph/alphabet.txt
+ds_graph/lm.binary
+ds_graph/output_graph.pb
+ds_graph/trie
